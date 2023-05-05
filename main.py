@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import missingno as msno
 
 
+
 # files = os.path.join("phongtro*.csv")
 #
 # # list of merged files returned
@@ -85,6 +86,34 @@ y = housing[['Price']]
 to_be_scaled = ['num_floors', 'num_bed_rooms', 'squared_meter_area', 'length_meter', 'width_meter']
 
 X_array = np.array(X.values).astype("float32")
-y_array = np.array(Y).astype("float32")
+y_array = np.array(y).astype("float32")
 
-X_train, X_test, y_train, y_test = train_test_split(X_array, y_array, test_size=0.2, random_state=2032)
+from sklearn.model_selection import train_test_split
+
+X_train, X_test, y_train, y_test = train_test_split(X_array, y_array, test_size=0.2, random_state=0)
+
+from sklearn.ensemble import RandomForestRegressor
+regr = RandomForestRegressor(max_depth=2, random_state=0)
+regr.fit(X_train, np.ravel(y_train, order='C'))
+
+# reult = regr.predict(X_test)
+print(regr.score(X_test, y_test))
+# print(np.min(reult, axis=0))
+# print(np.max(reult, axis=0))
+
+from sklearn.svm import SVR
+from sklearn.pipeline import make_pipeline
+from sklearn.preprocessing import StandardScaler
+regr = SVR(C=1.0, epsilon=0.2)
+regr.fit(X_train, np.ravel(y_train))
+# reult = regr.predict(X_test)
+
+print(regr.score(X_test, y_test))
+# print(np.min(reult, axis=0))
+# print(np.max(reult, axis=0))
+
+from sklearn.linear_model import LinearRegression
+lm = LinearRegression()
+lm.fit(X_train, y_train)
+kq = lm.predict(X_test)
+print(lm.score(X_test, y_test))
