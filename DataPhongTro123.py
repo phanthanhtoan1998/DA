@@ -4,7 +4,7 @@ import csv
 
 url_template = 'https://phongtro123.com/tinh-thanh/ha-noi?page={page}'
 
-with open('Phongtro123file2.csv', mode='w', newline='', encoding='utf-8') as csv_file:
+with open('phongtro2.csv', mode='w', newline='', encoding='utf-8') as csv_file:
     writer = csv.writer(csv_file)
     # writer.writerow(['Price',  'District', 'Ward', 'time', 'Area'])
     listRoom=[]

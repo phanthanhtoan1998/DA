@@ -1,7 +1,27 @@
 Price,District,Ward,time,Area
-3, Quận Đống Đa,Phường Láng Hạ, 15/02/2023,20
-"1,5", Quận Đống Đa,Phường Khương Thượng, 04/01/2023,50
+8, Quận Thanh Xuân,Phường Nhân Chính, 20/02/2023,40
+4, Quận Đống Đa,Phường Láng Thượng, 20/02/2023,35
+2, Quận Thanh Xuân,Phường Khương Trung, 20/02/2023,25
+4, Quận Cầu Giấy,Phường Dịch Vọng, 20/02/2023,25
+6, Quận Đống Đa,Phường Trung Phụng, 19/02/2023,35
+3, Quận Thanh Xuân,Phường Thanh Xuân Trung, 19/02/2023,20
+Thỏa thuận, Quận Hà Đông,"Cho thuê Nhà trọ, phòng trọ Đường Phan Đình Giót", 19/02/2023,25
+4, Quận Cầu Giấy,Phường Yên Hòa, 19/02/2023,23
+2, Quận Thanh Xuân,Phường Khương Trung, 19/02/2023,20
+3, Quận Cầu Giấy,Phường Mai Dịch, 19/02/2023,14
+"2,5", Quận Thanh Xuân,Phường Khương Trung, 19/02/2023,20
+3, Quận Cầu Giấy,Phường Nghĩa Đô, 19/02/2023,15
 "1,5", Quận Hai Bà Trưng,Phường Bách Khoa, 04/01/2023,30
+"1,5", Quận Đống Đa,Phường Khương Thượng, 04/01/2023,50
+4, Quận Thanh Xuân,Phường Thanh Xuân Nam, 18/02/2023,25
+6, Quận Đống Đa,Phường Cát Linh, 18/02/2023,35
+3, Quận Cầu Giấy,Phường Nghĩa Đô, 18/02/2023,15
+5, Quận Đống Đa,Phường Thổ Quan, 18/02/2023,28
+6, Quận Đống Đa,Phường Láng Thượng, 18/02/2023,30
+"2,5", Quận Cầu Giấy,Phường Yên Hòa, 15/02/2023,25
+"3,1", Quận Ba Đình,Phường Ngọc Hà, 15/02/2023,20
+2, Quận Đống Đa,Phường Trung Liệt, 15/02/2023,25
+3, Quận Đống Đa,Phường Láng Hạ, 15/02/2023,20
 "3,2", Quận Hoàn Kiếm,Phường Phúc Tân, 15/02/2023,20 - 30
 3, Quận Thanh Xuân,Phường Khương Trung, 15/02/2023,32
 5, Quận Thanh Xuân,Phường Nhân Chính, 14/02/2023,73
@@ -64,16 +84,18 @@ Price,District,Ward,time,Area
 4, Quận Hà Đông,"Cho thuê Nhà trọ, phòng trọ Đường Văn Quán", 05/02/2023,30
 7, Quận Đống Đa,Phường Láng Thượng, 05/02/2023,33
 5, Quận Đống Đa,Phường Kim Liên, 05/02/2023,32
+3, Quận Cầu Giấy,Phường Trung Hòa, 04/02/2023,20
 6, Quận Đống Đa,Phường Ô Chợ Dừa, 04/02/2023,38
 5, Quận Đống Đa,"Cho thuê Nhà trọ, phòng trọ Đường Hàng Bột", 04/02/2023,40
 4, Quận Cầu Giấy,Phường Quan Hoa, 03/02/2023,20
 4, Quận Thanh Xuân,Phường Thanh Xuân Nam, 03/02/2023,60
 "2,3", Quận Đống Đa,Phường Nam Đồng, 03/02/2023,26
+8, Quận Đống Đa,Phường Ngã Tư Sở, 01/02/2023,45
 4, Quận Đống Đa,Phường Ô Chợ Dừa, 01/02/2023,25
 5, Quận Thanh Xuân,Phường Phương Liệt, 01/02/2023,30
 5, Quận Thanh Xuân,Phường Khương Trung, 31/01/2023,35
 Thỏa thuận, Quận Thanh Xuân,Phường Thanh Xuân Trung, 31/01/2023,40
-"2,6", Quận Thanh Xuân,Phường Khương Trung, 31/01/2023,32
+"2,5", Quận Thanh Xuân,Phường Khương Trung, 31/01/2023,28
 4, Quận Đống Đa,Phường Láng Thượng, 30/01/2023,30
 7, Quận Cầu Giấy,Phường Dịch Vọng, 30/01/2023,30
 6, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 30/01/2023,30
@@ -81,223 +103,3 @@ Thỏa thuận, Quận Thanh Xuân,Phường Thanh Xuân Trung, 31/01/2023,40
 8, Quận Đống Đa,Phường Ô Chợ Dừa, 30/01/2023,40
 4, Quận Đống Đa,Phường Láng Thượng, 30/01/2023,22
 6, Quận Cầu Giấy,Phường Yên Hòa, 29/01/2023,25
-3, Quận Thanh Xuân,Phường Khương Trung, 29/01/2023,28
-6, Quận Đống Đa,Phường Ô Chợ Dừa, 29/01/2023,25
-5, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 29/01/2023,25
-2, Quận Thanh Xuân,Phường Hạ Đình, 29/01/2023,15
-3, Quận Thanh Xuân,Phường Nhân Chính, 29/01/2023,21
-300, Quận Cầu Giấy,Phường Quan Hoa, 29/01/2023,30
-1, Quận Cầu Giấy,Phường Mai Dịch, 29/01/2023,50
-6, Quận Thanh Xuân,Phường Khương Mai, 28/01/2023,45
-5, Quận Thanh Xuân,Phường Nhân Chính, 26/01/2023,30
-4, Quận Thanh Xuân,Phường Nhân Chính, 26/01/2023,25
-2, Quận Đống Đa,Phường Láng Thượng, 26/01/2023,18
-3, Quận Thanh Xuân,Phường Khương Mai, 24/01/2023,30
-3, Quận Thanh Xuân,Phường Khương Mai, 24/01/2023,22
-4, Quận Đống Đa,Phường Trung Liệt, 23/01/2023,20
-3, Quận Thanh Xuân,Phường Khương Đình, 23/01/2023,20
-4, Quận Cầu Giấy,Phường Trung Hòa, 23/01/2023,25
-4, Quận Đống Đa,Phường Ô Chợ Dừa, 23/01/2023,30
-4, Quận Thanh Xuân,Phường Nhân Chính, 23/01/2023,26
-4, Quận Đống Đa,Phường Thổ Quan, 23/01/2023,18
-3, Quận Thanh Xuân,Phường Khương Mai, 22/01/2023,22
-"1,6", Quận Hoàng Mai,Phường Tương Mai, 22/01/2023,15
-3, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 22/01/2023,28
-4, Quận Thanh Xuân,Phường Khương Đình, 22/01/2023,23
-5, Quận Đống Đa,Phường Láng Hạ, 22/01/2023,18
-4, Quận Cầu Giấy,Phường Quan Hoa, 21/01/2023,35
-7, Quận Đống Đa,Phường Ô Chợ Dừa, 21/01/2023,35
-4, Quận Thanh Xuân,Phường Hạ Đình, 20/01/2023,26
-7, Quận Thanh Xuân,Phường Thượng Đình, 20/01/2023,45
-4, Quận Thanh Xuân,Phường Khương Đình, 20/01/2023,27
-4, Quận Cầu Giấy,Phường Dịch Vọng, 20/01/2023,25
-2, Quận Thanh Xuân,Phường Thanh Xuân Trung, 18/01/2023,20
-3, Quận Cầu Giấy,Phường Trung Hòa, 18/01/2023,28
-2, Quận Cầu Giấy,Phường Nghĩa Đô, 18/01/2023,17
-4, Quận Hà Đông,Phường Mỗ Lao, 14/02/2023,25
-2, Quận Long Biên,Phường Ngọc Lâm, 14/02/2023,15
-4, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 14/02/2023,40
-2, Quận Hà Đông,Phường Quang Trung, 14/02/2023,40
-3, Quận Đống Đa,Phường Láng Hạ, 14/02/2023,20
-6, Quận Cầu Giấy,Phường Nghĩa Đô, 14/02/2023,30
-5, Quận Cầu Giấy,Phường Quan Hoa, 13/02/2023,30
-3, Quận Hà Đông,Phường Kiến Hưng, 13/02/2023,25
-2, Quận Hoàng Mai,Phường Vĩnh Hưng, 12/02/2023,25
-4, Quận Hoàng Mai,Phường Thanh Trì, 12/02/2023,25
-8, Quận Cầu Giấy,Phường Quan Hoa, 12/02/2023,50
-2, Quận Đống Đa,Phường Trung Liệt, 12/02/2023,25
-5, Quận Đống Đa,Phường Láng Thượng, 10/02/2023,32
-4, Quận Hoàng Mai,Phường Định Công, 10/02/2023,25
-5, Quận Thanh Xuân,Phường Thanh Xuân Nam, 10/02/2023,50
-2, Quận Hà Đông,Phường Kiến Hưng, 09/02/2023,18
-6, Quận Bắc Từ Liêm,Phường Xuân Đỉnh, 09/02/2023,40
-6, Quận Bắc Từ Liêm,Phường Xuân Đỉnh, 09/02/2023,40
-4, Quận Bắc Từ Liêm,Phường Xuân Đỉnh, 09/02/2023,30
-4, Quận Thanh Xuân,Phường Kim Giang, 08/02/2023,25
-4, Quận Hoàn Kiếm,Phường Hàng Bông, 08/02/2023,20
-5, Quận Hà Đông,Phường La Khê, 08/02/2023,25
-2, Quận Hoàng Mai,Phường Tương Mai, 08/02/2023,24
-5, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 08/02/2023,30
-3, Quận Cầu Giấy,Phường Nghĩa Tân, 08/02/2023,25
-5, Quận Cầu Giấy,Phường Quan Hoa, 08/02/2023,38
-6, Quận Cầu Giấy,Phường Mai Dịch, 08/02/2023,45
-5, Quận Đống Đa,Phường Kim Liên, 08/02/2023,40
-4, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 08/02/2023,27
-4, Quận Hoàn Kiếm,Phường Phúc Tân, 08/02/2023,23
-6, Quận Hai Bà Trưng,Phường Bùi Thị Xuân, 08/02/2023,25
-4, Quận Hai Bà Trưng,Phường Bùi Thị Xuân, 07/02/2023,20
-4, Quận Hà Đông,Phường Mỗ Lao, 07/02/2023,25
-4, Huyện Thanh Trì,Xã Tân Triều, 07/02/2023,24
-4, Huyện Thanh Trì,Xã Tân Triều, 07/02/2023,25
-6, Quận Đống Đa,Phường Láng Thượng, 07/02/2023,30
-4, Quận Hà Đông,Phường Vạn Phúc, 07/02/2023,25
-3, Quận Thanh Xuân,Phường Khương Mai, 05/02/2023,20
-2, Quận Đống Đa,Phường Nam Đồng, 05/02/2023,26
-4, Quận Thanh Xuân,Phường Khương Đình, 05/02/2023,30
-5, Quận Đống Đa,Phường Láng Thượng, 05/02/2023,30
-5, Quận Ba Đình,Phường Kim Mã, 05/02/2023,30
-6, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 05/02/2023,35
-2, Huyện Đông Anh,Xã Vĩnh Ngọc, 05/02/2023,20
-4, Quận Ba Đình,Phường Trúc Bạch, 05/02/2023,30
-4, Quận Bắc Từ Liêm,Phường Xuân Đỉnh, 05/02/2023,30
-3, Quận Bắc Từ Liêm,Phường Minh Khai, 05/02/2023,30
-4, Huyện Thanh Trì,Xã Tân Triều, 05/02/2023,25
-Thỏa thuận, Quận Tây Hồ,Phường Phú Thượng, 05/02/2023,45
-3, Quận Bắc Từ Liêm,Phường Tây Tựu, 05/02/2023,25
-1, Huyện Đông Anh,Xã Võng La, 05/02/2023,20
-104, Quận Ba Đình,Phường Ngọc Hà, 02/02/2023,40
-4, Quận Nam Từ Liêm,Phường Trung Văn, 02/02/2023,35
-4, Quận Hoàng Mai,Phường Mai Động, 02/02/2023,25
-6, Quận Hoàng Mai,Phường Định Công, 02/02/2023,32
-5, Quận Nam Từ Liêm,"Cho thuê Nhà trọ, phòng trọ Đường Hồ Tùng Mậu", 02/02/2023,30
-5, Quận Hoàng Mai,Phường Định Công, 02/02/2023,25
-Thỏa thuận, Huyện Đông Anh,Xã Võng La, 02/02/2023,16
-4, Huyện Thanh Trì,Xã Tân Triều, 02/02/2023,25
-4, Quận Hà Đông,Phường Phúc La, 02/02/2023,28
-3, Quận Hà Đông,Phường La Khê, 02/02/2023,20
-6, Quận Tây Hồ,Phường Quảng An, 02/02/2023,30
-4, Quận Nam Từ Liêm,Phường Phú Đô, 02/02/2023,20
-6, Quận Hai Bà Trưng,Phường Bách Khoa, 02/02/2023,32
-3, Quận Cầu Giấy,Phường Trung Hòa, 01/02/2023,20
-4, Quận Hà Đông,Phường Mỗ Lao, 01/02/2023,50
-2, Quận Đống Đa,Phường Khương Thượng, 31/01/2023,15
-4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 31/01/2023,25
-4, Quận Bắc Từ Liêm,Phường Phú Diễn, 31/01/2023,17
-6, Quận Hai Bà Trưng,Phường Đồng Tâm, 31/01/2023,30
-3, Quận Hà Đông,Phường Phú La, 31/01/2023,25
-2, Quận Hà Đông,Phường La Khê, 30/01/2023,18
-6, Quận Tây Hồ,Phường Xuân La, 30/01/2023,28
-4, Quận Nam Từ Liêm,Phường Trung Văn, 30/01/2023,35
-12, Quận Nam Từ Liêm,"Cho thuê Nhà trọ, phòng trọ đường Tây Mỗ", 30/01/2023,120
-60, Quận Hoàn Kiếm,Phường Hàng Bạc, 30/01/2023,60
-1, Quận Hoàng Mai,Phường Định Công, 30/01/2023,40
-6, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 30/01/2023,35
-2, Quận Long Biên,Phường Ngọc Thụy, 30/01/2023,20
-4, Quận Hà Đông,Phường Phúc La, 30/01/2023,30
-6, Quận Bắc Từ Liêm,Phường Cổ Nhuế 1, 30/01/2023,35
-4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 29/01/2023,25
-96, Quận Thanh Xuân,Phường Hạ Đình, 29/01/2023,800
-7, Quận Tây Hồ,Phường Phú Thượng, 29/01/2023,30
-3, Quận Nam Từ Liêm,Phường Trung Văn, 29/01/2023,20
-4, Quận Đống Đa,Phường Khương Thượng, 26/01/2023,50
-6, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 26/01/2023,40
-5, Quận Nam Từ Liêm,Phường Trung Văn, 25/01/2023,22
-3, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 16/01/2023,20
-4, Quận Hà Đông,"Cho thuê Nhà trọ, phòng trọ Đường Xa La", 15/01/2023,35
-2, Quận Đống Đa,Phường Ô Chợ Dừa, 15/01/2023,12
-Thỏa thuận, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 15/01/2023,25
-4, Quận Thanh Xuân,Phường Thanh Xuân Nam, 15/01/2023,25
-3, Quận Thanh Xuân,Phường Kim Giang, 15/01/2023,25
-6, Quận Cầu Giấy,Phường Trung Hòa, 15/01/2023,26
-3, Quận Thanh Xuân,Phường Thanh Xuân Trung, 14/01/2023,20
-4, Quận Cầu Giấy,Phường Quan Hoa, 14/01/2023,35
-6, Quận Cầu Giấy,Phường Trung Hòa, 14/01/2023,35
-4, Quận Đống Đa,Phường Khâm Thiên, 14/01/2023,20
-6, Quận Đống Đa,Phường Khương Thượng, 14/01/2023,40
-4, Quận Cầu Giấy,Phường Mai Dịch, 14/01/2023,25
-4, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 14/01/2023,30
-4, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 14/01/2023,35
-3, Quận Cầu Giấy,Phường Nghĩa Đô, 14/01/2023,18
-4, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 13/01/2023,20
-4, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 13/01/2023,30
-4, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 13/01/2023,30
-6, Quận Cầu Giấy,Phường Quan Hoa, 13/01/2023,35
-3, Quận Thanh Xuân,Phường Thanh Xuân Trung, 12/01/2023,20
-3, Quận Thanh Xuân,Phường Kim Giang, 12/01/2023,25
-3, Quận Thanh Xuân,Phường Khương Trung, 12/01/2023,20
-3, Quận Thanh Xuân,Phường Kim Giang, 12/01/2023,20
-2, Quận Long Biên,Phường Thạch Bàn, 11/01/2023,30
-1, Huyện Đông Anh,Xã Võng La, 10/01/2023,25
-4, Quận Ba Đình,Phường Ngọc Hà, 10/01/2023,20
-8, Quận Tây Hồ,Phường Thụy Khuê, 10/01/2023,50
-5, Quận Ba Đình,Phường Nguyễn Trung Trực, 10/01/2023,32
-2, Huyện Hoài Đức,Xã La Phù, 10/01/2023,35
-4, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 09/01/2023,30
-4, Quận Cầu Giấy,Phường Quan Hoa, 09/01/2023,35
-4, Quận Hà Đông,"Cho thuê Nhà trọ, phòng trọ Đường Xa La", 09/01/2023,35
-4, Quận Cầu Giấy,Phường Mai Dịch, 09/01/2023,30
-5, Quận Thanh Xuân,Phường Kim Giang, 09/01/2023,30
-3, Huyện Thanh Trì,Xã Thanh Liệt, 09/01/2023,20
-3, Huyện Thanh Trì,"Cho thuê Nhà trọ, phòng trọ Đường Phan Trọng Tuệ", 09/01/2023,20
-5, Quận Ba Đình,Phường Nguyễn Trung Trực, 09/01/2023,32
-5, Quận Ba Đình,Phường Nguyễn Trung Trực, 09/01/2023,32
-5, Quận Ba Đình,Phường Nguyễn Trung Trực, 09/01/2023,32
-4, Quận Bắc Từ Liêm,Phường Phúc Diễn, 09/01/2023,26
-Thỏa thuận, Quận Hoàng Mai,Phường Định Công, 09/01/2023,20
-4, Quận Hà Đông,Phường Phúc La, 09/01/2023,35
-2, Quận Đống Đa,Phường Ô Chợ Dừa, 08/01/2023,12
-3, Quận Cầu Giấy,Phường Dịch Vọng, 08/01/2023,23
-4, Quận Thanh Xuân,Phường Nhân Chính, 08/01/2023,20
-4, Quận Bắc Từ Liêm,Phường Xuân Đỉnh, 08/01/2023,30
-7, Quận Nam Từ Liêm,Phường Trung Văn, 08/01/2023,45
-6, Quận Hà Đông,Phường La Khê, 08/01/2023,50
-4, Quận Tây Hồ,Phường Tứ Liên, 08/01/2023,35
-"1,5", Quận Đống Đa,Phường Ngã Tư Sở, 08/01/2023,20
-"4,55", Quận Bắc Từ Liêm,Phường Xuân Đỉnh, 07/01/2023,20
-5, Quận Thanh Xuân,Phường Thanh Xuân Nam, 08/12/2022,30
-5, Quận Đống Đa,Phường Láng Hạ, 07/12/2022,22
-4, Quận Cầu Giấy,Phường Quan Hoa, 07/12/2022,25
-4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 07/12/2022,15
-4, Quận Cầu Giấy,Phường Trung Hòa, 07/12/2022,40
-4, Quận Cầu Giấy,Phường Quan Hoa, 07/12/2022,20
-7, Quận Thanh Xuân,Phường Khương Mai, 06/12/2022,50
-"2,3 - 2,6", Quận Hoàng Mai,"Cho thuê Nhà trọ, phòng trọ Đường Định Công", 06/12/2022,20
-3, Quận Thanh Xuân,Phường Nhân Chính, 05/12/2022,16
-3, Quận Thanh Xuân,Phường Thanh Xuân Trung, 05/12/2022,20
-8, Quận Thanh Xuân,Phường Nhân Chính, 05/12/2022,40
-6, Quận Thanh Xuân,Phường Nhân Chính, 05/12/2022,30
-5, Quận Thanh Xuân,Phường Khương Mai, 05/12/2022,45
-6, Quận Thanh Xuân,Phường Nhân Chính, 05/12/2022,30
-5, Quận Thanh Xuân,Phường Khương Mai, 03/12/2022,27
-3, Quận Thanh Xuân,Phường Khương Mai, 02/12/2022,25
-3, Quận Thanh Xuân,Phường Kim Giang, 02/12/2022,25
-"2,8", Quận Hà Đông,Phường Kiến Hưng, 01/12/2022,30
-"4,5", Huyện Thanh Trì,Xã Tân Triều, 01/12/2022,25
-7, Quận Cầu Giấy,Phường Yên Hòa, 25/11/2022,65
-6, Quận Cầu Giấy,Phường Quan Hoa, 25/11/2022,30
-6, Quận Cầu Giấy,Phường Yên Hòa, 25/11/2022,30
-3, Quận Đống Đa,Phường Ngã Tư Sở, 25/11/2022,45
-9, Quận Hoàn Kiếm,Phường Trần Hưng Đạo, 24/11/2022,70
-6, Quận Cầu Giấy,Phường Quan Hoa, 23/11/2022,40
-4, Quận Cầu Giấy,Phường Yên Hòa, 23/11/2022,25
-"1,38", Quận Ba Đình,Phường Giảng Võ, 22/11/2022,50
-"2,6", Quận Hà Đông,Phường Mỗ Lao, 22/11/2022,20
-2, Quận Thanh Xuân,Phường Phương Liệt, 21/11/2022,25
-5, Quận Thanh Xuân,Phường Thanh Xuân Nam, 21/11/2022,30
-4, Quận Hà Đông,Phường Văn Quán, 16/11/2022,25
-4, Quận Thanh Xuân,Phường Hạ Đình, 16/11/2022,30
-6, Quận Thanh Xuân,Phường Nhân Chính, 16/11/2022,30
-6, Quận Thanh Xuân,Phường Khương Mai, 16/11/2022,35
-8, Quận Thanh Xuân,Phường Nhân Chính, 16/11/2022,45
-2, Quận Thanh Xuân,Phường Nhân Chính, 15/11/2022,30
-5 - 9, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 15/11/2022,20 - 40
-4, Quận Thanh Xuân,Phường Hạ Đình, 15/11/2022,25
-4, Quận Thanh Xuân,Phường Khương Trung, 15/11/2022,25
-4, Quận Thanh Xuân,Phường Hạ Đình, 15/11/2022,25
-4, Quận Thanh Xuân,Phường Kim Giang, 15/11/2022,30
-4, Quận Thanh Xuân,Phường Khương Trung, 15/11/2022,25
-4, Quận Hà Đông,Phường Văn Quán, 15/11/2022,22
-4, Quận Hà Đông,Phường Vạn Phúc, 15/11/2022,22
-2, Quận Hà Đông,Phường La Khê, 15/11/2022,80
-2, Quận Hà Đông,Phường Yên Nghĩa, 15/11/2022,25
-6, Quận Thanh Xuân,Phường Thượng Đình, 14/11/2022,35
