@@ -1,0 +1,553 @@
+Price,District,Ward,time,Area
+8, Quận Thanh Xuân,Phường Nhân Chính, 20/02/2023,40
+4, Quận Đống Đa,Phường Láng Thượng, 20/02/2023,35
+2, Quận Thanh Xuân,Phường Khương Trung, 20/02/2023,25
+4, Quận Cầu Giấy,Phường Dịch Vọng, 20/02/2023,25
+6, Quận Đống Đa,Phường Trung Phụng, 19/02/2023,35
+3, Quận Thanh Xuân,Phường Thanh Xuân Trung, 19/02/2023,20
+Thỏa thuận, Quận Hà Đông,"Cho thuê Nhà trọ, phòng trọ Đường Phan Đình Giót", 19/02/2023,25
+4, Quận Cầu Giấy,Phường Yên Hòa, 19/02/2023,23
+2, Quận Thanh Xuân,Phường Khương Trung, 19/02/2023,20
+3, Quận Cầu Giấy,Phường Mai Dịch, 19/02/2023,14
+"2,5", Quận Thanh Xuân,Phường Khương Trung, 19/02/2023,20
+3, Quận Cầu Giấy,Phường Nghĩa Đô, 19/02/2023,15
+"1,5", Quận Hai Bà Trưng,Phường Bách Khoa, 04/01/2023,30
+"1,5", Quận Đống Đa,Phường Khương Thượng, 04/01/2023,50
+4, Quận Thanh Xuân,Phường Thanh Xuân Nam, 18/02/2023,25
+6, Quận Đống Đa,Phường Cát Linh, 18/02/2023,35
+3, Quận Cầu Giấy,Phường Nghĩa Đô, 18/02/2023,15
+5, Quận Đống Đa,Phường Thổ Quan, 18/02/2023,28
+6, Quận Đống Đa,Phường Láng Thượng, 18/02/2023,30
+"2,5", Quận Cầu Giấy,Phường Yên Hòa, 15/02/2023,25
+"3,1", Quận Ba Đình,Phường Ngọc Hà, 15/02/2023,20
+2, Quận Đống Đa,Phường Trung Liệt, 15/02/2023,25
+3, Quận Đống Đa,Phường Láng Hạ, 15/02/2023,20
+"3,2", Quận Hoàn Kiếm,Phường Phúc Tân, 15/02/2023,20 - 30
+3, Quận Thanh Xuân,Phường Khương Trung, 15/02/2023,32
+5, Quận Thanh Xuân,Phường Nhân Chính, 14/02/2023,73
+"2,5 - 4,5", Quận Hà Đông,Phường Phúc La, 14/02/2023,25 - 38
+3, Huyện Thanh Trì,Xã Hữu Hòa, 14/02/2023,25
+"3,8", Quận Nam Từ Liêm,Phường Mỹ Đình 2, 14/02/2023,35
+2, Quận Thanh Xuân,Phường Phương Liệt, 13/02/2023,25
+3, Quận Thanh Xuân,Phường Khương Trung, 13/02/2023,25
+"1,8", Quận Đống Đa,Phường Trung Liệt, 13/02/2023,25
+5, Quận Thanh Xuân,Phường Thanh Xuân Nam, 13/02/2023,50
+"4,2", Quận Cầu Giấy,Phường Nghĩa Tân, 12/02/2023,25
+4, Quận Cầu Giấy,Phường Quan Hoa, 12/02/2023,30
+5, Quận Đống Đa,Phường Kim Liên, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 11/02/2023,30
+5, Quận Thanh Xuân,Phường Nhân Chính, 11/02/2023,25
+7, Quận Thanh Xuân,Phường Phương Liệt, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 11/02/2023,38
+2, Quận Đống Đa,Phường Khương Thượng, 10/02/2023,27
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 10/02/2023,22
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 10/02/2023,25
+4, Quận Thanh Xuân,Phường Kim Giang, 09/02/2023,25
+2, Quận Đống Đa,Phường Ngã Tư Sở, 08/02/2023,20
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,45
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 08/02/2023,25
+96, Quận Thanh Xuân,Phường Hạ Đình, 08/02/2023,800
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 08/02/2023,20
+4, Quận Cầu Giấy,Phường Trung Hòa, 08/02/2023,25
+6, Quận Thanh Xuân,Phường Thanh Xuân Trung, 08/02/2023,35
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,35
+5, Quận Cầu Giấy,Phường Quan Hoa, 08/02/2023,28
+4, Quận Đống Đa,Phường Khương Thượng, 08/02/2023,50
+2, Quận Đống Đa,Phường Khương Thượng, 08/02/2023,15
+7, Quận Cầu Giấy,Phường Quan Hoa, 07/02/2023,50
+"1,5", Quận Hà Đông,Phường Yết Kiêu, 07/02/2023,85
+6, Quận Thanh Xuân,Phường Hạ Đình, 07/02/2023,45
+8, Quận Đống Đa,Phường Cát Linh, 07/02/2023,35
+5, Quận Đống Đa,Phường Láng Thượng, 07/02/2023,30
+4, Quận Thanh Xuân,Phường Khương Đình, 07/02/2023,30
+2, Quận Đống Đa,Phường Nam Đồng, 07/02/2023,26
+3, Quận Thanh Xuân,Phường Khương Mai, 07/02/2023,20
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 07/02/2023,30
+5, Quận Đống Đa,Phường Thịnh Quang, 07/02/2023,45
+3, Quận Đống Đa,Phường Ô Chợ Dừa, 07/02/2023,30
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Dịch Vọng, 06/02/2023,32
+2, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 06/02/2023,15
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 06/02/2023,20
+5, Quận Thanh Xuân,Phường Nhân Chính, 06/02/2023,24
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,40
+5, Quận Thanh Xuân,Phường Khương Đình, 06/02/2023,25
+4, Quận Đống Đa,Phường Phương Liên, 05/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+3, Quận Thanh Xuân,Phường Nhân Chính, 05/02/2023,30
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 05/02/2023,25
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+2, Quận Đống Đa,Phường Nam Đồng, 05/02/2023,26
+5, Quận Thanh Xuân,Phường Nhân Chính, 05/02/2023,30
+4, Quận Hà Đông,"Cho thuê Nhà trọ, phòng trọ Đường Văn Quán", 05/02/2023,30
+7, Quận Đống Đa,Phường Láng Thượng, 05/02/2023,33
+5, Quận Đống Đa,Phường Kim Liên, 05/02/2023,32
+3, Quận Cầu Giấy,Phường Trung Hòa, 04/02/2023,20
+6, Quận Đống Đa,Phường Ô Chợ Dừa, 04/02/2023,38
+5, Quận Đống Đa,"Cho thuê Nhà trọ, phòng trọ Đường Hàng Bột", 04/02/2023,40
+4, Quận Cầu Giấy,Phường Quan Hoa, 03/02/2023,20
+4, Quận Thanh Xuân,Phường Thanh Xuân Nam, 03/02/2023,60
+"2,3", Quận Đống Đa,Phường Nam Đồng, 03/02/2023,26
+8, Quận Đống Đa,Phường Ngã Tư Sở, 01/02/2023,45
+4, Quận Đống Đa,Phường Ô Chợ Dừa, 01/02/2023,25
+5, Quận Thanh Xuân,Phường Phương Liệt, 01/02/2023,30
+5, Quận Thanh Xuân,Phường Khương Trung, 31/01/2023,35
+Thỏa thuận, Quận Thanh Xuân,Phường Thanh Xuân Trung, 31/01/2023,40
+"2,5", Quận Thanh Xuân,Phường Khương Trung, 31/01/2023,28
+4, Quận Đống Đa,Phường Láng Thượng, 30/01/2023,30
+7, Quận Cầu Giấy,Phường Dịch Vọng, 30/01/2023,30
+6, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 30/01/2023,30
+6, Quận Đống Đa,Phường Ô Chợ Dừa, 30/01/2023,25
+8, Quận Đống Đa,Phường Ô Chợ Dừa, 30/01/2023,40
+4, Quận Đống Đa,Phường Láng Thượng, 30/01/2023,22
+6, Quận Cầu Giấy,Phường Yên Hòa, 29/01/2023,25
+2, Quận Đống Đa,Phường Nam Đồng, 07/02/2023,26
+3, Quận Thanh Xuân,Phường Khương Mai, 07/02/2023,20
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 07/02/2023,30
+5, Quận Đống Đa,Phường Thịnh Quang, 07/02/2023,45
+3, Quận Đống Đa,Phường Ô Chợ Dừa, 07/02/2023,30
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Dịch Vọng, 06/02/2023,32
+2, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 06/02/2023,15
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 06/02/2023,20
+5, Quận Thanh Xuân,Phường Nhân Chính, 06/02/2023,24
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,40
+5, Quận Thanh Xuân,Phường Khương Đình, 06/02/2023,25
+4, Quận Đống Đa,Phường Phương Liên, 05/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+3, Quận Thanh Xuân,Phường Nhân Chính, 05/02/2023,30
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 05/02/2023,25
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 10/02/2023,25
+4, Quận Thanh Xuân,Phường Kim Giang, 09/02/2023,25
+2, Quận Đống Đa,Phường Ngã Tư Sở, 08/02/2023,20
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,45
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 08/02/2023,25
+96, Quận Thanh Xuân,Phường Hạ Đình, 08/02/2023,800
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 08/02/2023,20
+4, Quận Cầu Giấy,Phường Trung Hòa, 08/02/2023,25
+6, Quận Thanh Xuân,Phường Thanh Xuân Trung, 08/02/2023,35
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,35
+5, Quận Cầu Giấy,Phường Quan Hoa, 08/02/2023,28
+4, Quận Đống Đa,Phường Khương Thượng, 08/02/2023,50
+2, Quận Đống Đa,Phường Khương Thượng, 08/02/2023,15
+4, Quận Đống Đa,Phường Láng Thượng, 30/01/2023,30
+7, Quận Cầu Giấy,Phường Dịch Vọng, 30/01/2023,30
+6, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 30/01/2023,30
+6, Quận Đống Đa,Phường Ô Chợ Dừa, 30/01/2023,25
+8, Quận Đống Đa,Phường Ô Chợ Dừa, 30/01/2023,40
+4, Quận Đống Đa,Phường Láng Thượng, 30/01/2023,22
+6, Quận Cầu Giấy,Phường Yên Hòa, 29/01/2023,25
+2, Quận Đống Đa,Phường Nam Đồng, 07/02/2023,26
+3, Quận Thanh Xuân,Phường Khương Mai, 07/02/2023,20
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 07/02/2023,30
+5, Quận Đống Đa,Phường Thịnh Quang, 07/02/2023,45
+3, Quận Đống Đa,Phường Ô Chợ Dừa, 07/02/2023,30
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Quan Hoa, 12/02/2023,30
+5, Quận Đống Đa,Phường Kim Liên, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 11/02/2023,30
+5, Quận Thanh Xuân,Phường Nhân Chính, 11/02/2023,25
+7, Quận Thanh Xuân,Phường Phương Liệt, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 11/02/2023,38
+2, Quận Đống Đa,Phường Khương Thượng, 10/02/2023,27
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 10/02/2023,22
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 10/02/2023,25
+4, Quận Thanh Xuân,Phường Kim Giang, 09/02/2023,25
+2, Quận Đống Đa,Phường Ngã Tư Sở, 08/02/2023,20
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,45
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 08/02/2023,25
+4, Quận Cầu Giấy,Phường Quan Hoa, 12/02/2023,30
+5, Quận Đống Đa,Phường Kim Liên, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 11/02/2023,30
+5, Quận Thanh Xuân,Phường Nhân Chính, 11/02/2023,25
+7, Quận Thanh Xuân,Phường Phương Liệt, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 11/02/2023,38
+2, Quận Đống Đa,Phường Khương Thượng, 10/02/2023,27
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 10/02/2023,22
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 10/02/2023,25
+4, Quận Thanh Xuân,Phường Kim Giang, 09/02/2023,25
+2, Quận Đống Đa,Phường Ngã Tư Sở, 08/02/2023,20
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,45
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 08/02/2023,25
+2, Quận Đống Đa,Phường Nam Đồng, 07/02/2023,26
+3, Quận Thanh Xuân,Phường Khương Mai, 07/02/2023,20
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 07/02/2023,30
+5, Quận Đống Đa,Phường Thịnh Quang, 07/02/2023,45
+3, Quận Đống Đa,Phường Ô Chợ Dừa, 07/02/2023,30
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Dịch Vọng, 06/02/2023,32
+2, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 06/02/2023,15
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 06/02/2023,20
+5, Quận Thanh Xuân,Phường Nhân Chính, 06/02/2023,24
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,40
+5, Quận Thanh Xuân,Phường Khương Đình, 06/02/2023,25
+4, Quận Đống Đa,Phường Phương Liên, 05/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+3, Quận Thanh Xuân,Phường Nhân Chính, 05/02/2023,30
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 05/02/2023,25
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+2, Quận Đống Đa,Phường Nam Đồng, 05/02/2023,26
+5, Quận Thanh Xuân,Phường Nhân Chính, 05/02/2023,30
+4, Quận Hà Đông,"Cho thuê Nhà trọ, phòng trọ Đường Văn Quán", 05/02/2023,30
+7, Quận Đống Đa,Phường Láng Thượng, 05/02/2023,33
+5, Quận Đống Đa,Phường Kim Liên, 05/02/2023,32
+3, Quận Cầu Giấy,Phường Trung Hòa, 04/02/2023,20
+6, Quận Đống Đa,Phường Ô Chợ Dừa, 04/02/2023,38
+5, Quận Đống Đa,"Cho thuê Nhà trọ, phòng trọ Đường Hàng Bột", 04/02/2023,40
+4, Quận Cầu Giấy,Phường Quan Hoa, 03/02/2023,20
+4, Quận Thanh Xuân,Phường Thanh Xuân Nam, 03/02/2023,60
+2, Quận Đống Đa,Phường Ngã Tư Sở, 08/02/2023,20
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,45
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 08/02/2023,25
+4, Quận Cầu Giấy,Phường Quan Hoa, 12/02/2023,30
+5, Quận Đống Đa,Phường Kim Liên, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 11/02/2023,30
+5, Quận Thanh Xuân,Phường Nhân Chính, 11/02/2023,25
+7, Quận Thanh Xuân,Phường Phương Liệt, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 11/02/2023,38
+2, Quận Đống Đa,Phường Khương Thượng, 10/02/2023,27
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 10/02/2023,22
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 10/02/2023,25
+4, Quận Thanh Xuân,Phường Kim Giang, 09/02/2023,25
+2, Quận Đống Đa,Phường Ngã Tư Sở, 08/02/2023,20
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 08/02/2023,25
+2, Quận Đống Đa,Phường Nam Đồng, 07/02/2023,26
+3, Quận Thanh Xuân,Phường Khương Mai, 07/02/2023,20
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 07/02/2023,30
+5, Quận Đống Đa,Phường Thịnh Quang, 07/02/2023,45
+3, Quận Đống Đa,Phường Ô Chợ Dừa, 07/02/2023,30
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Dịch Vọng, 06/02/2023,32
+2, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 06/02/2023,15
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 06/02/2023,20
+5, Quận Thanh Xuân,Phường Nhân Chính, 06/02/2023,24
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,40
+5, Quận Thanh Xuân,Phường Khương Đình, 06/02/2023,25
+4, Quận Đống Đa,Phường Phương Liên, 05/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+3, Quận Thanh Xuân,Phường Nhân Chính, 05/02/2023,30
+5, Quận Đống Đa,"Cho thuê Nhà trọ, phòng trọ Đường Hàng Bột", 04/02/2023,40
+4, Quận Cầu Giấy,Phường Quan Hoa, 03/02/2023,20
+4, Quận Thanh Xuân,Phường Thanh Xuân Nam, 03/02/2023,60
+2, Quận Đống Đa,Phường Ngã Tư Sở, 08/02/2023,20
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,45
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 08/02/2023,25
+4, Quận Cầu Giấy,Phường Quan Hoa, 12/02/2023,30
+5, Quận Đống Đa,Phường Kim Liên, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 11/02/2023,30
+5, Quận Thanh Xuân,Phường Nhân Chính, 11/02/2023,25
+7, Quận Thanh Xuân,Phường Phương Liệt, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 11/02/2023,38
+2, Quận Đống Đa,Phường Khương Thượng, 10/02/2023,27
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 10/02/2023,22
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 10/02/2023,25
+6, Quận Cầu Giấy,Phường Yên Hòa, 29/01/2023,25
+2, Quận Đống Đa,Phường Nam Đồng, 07/02/2023,26
+3, Quận Thanh Xuân,Phường Khương Mai, 07/02/2023,20
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 07/02/2023,30
+5, Quận Đống Đa,Phường Thịnh Quang, 07/02/2023,45
+3, Quận Đống Đa,Phường Ô Chợ Dừa, 07/02/2023,30
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Quan Hoa, 12/02/2023,30
+5, Quận Đống Đa,Phường Kim Liên, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 11/02/2023,30
+5, Quận Thanh Xuân,Phường Nhân Chính, 11/02/2023,25
+7, Quận Thanh Xuân,Phường Phương Liệt, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 11/02/2023,38
+2, Quận Đống Đa,Phường Khương Thượng, 10/02/2023,27
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 10/02/2023,22
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 10/02/2023,25
+4, Quận Thanh Xuân,Phường Kim Giang, 09/02/2023,25
+4, Quận Đống Đa,Phường Láng Thượng, 30/01/2023,30
+7, Quận Cầu Giấy,Phường Dịch Vọng, 30/01/2023,30
+6, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 30/01/2023,30
+6, Quận Đống Đa,Phường Ô Chợ Dừa, 30/01/2023,25
+8, Quận Đống Đa,Phường Ô Chợ Dừa, 30/01/2023,40
+4, Quận Đống Đa,Phường Láng Thượng, 30/01/2023,22
+6, Quận Cầu Giấy,Phường Yên Hòa, 29/01/2023,25
+2, Quận Đống Đa,Phường Nam Đồng, 07/02/2023,26
+3, Quận Thanh Xuân,Phường Khương Mai, 07/02/2023,20
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 07/02/2023,30
+5, Quận Đống Đa,Phường Thịnh Quang, 07/02/2023,45
+3, Quận Đống Đa,Phường Ô Chợ Dừa, 07/02/2023,30
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Dịch Vọng, 06/02/2023,32
+2, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 06/02/2023,15
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 06/02/2023,20
+5, Quận Thanh Xuân,Phường Nhân Chính, 06/02/2023,24
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,40
+5, Quận Thanh Xuân,Phường Khương Đình, 06/02/2023,25
+4, Quận Đống Đa,Phường Phương Liên, 05/02/2023,30
+6, Quận Thanh Xuân,Phường Thanh Xuân Trung, 08/02/2023,35
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,35
+5, Quận Cầu Giấy,Phường Quan Hoa, 08/02/2023,28
+4, Quận Đống Đa,Phường Khương Thượng, 08/02/2023,50
+2, Quận Đống Đa,Phường Khương Thượng, 08/02/2023,15
+4, Quận Đống Đa,Phường Láng Thượng, 30/01/2023,30
+7, Quận Cầu Giấy,Phường Dịch Vọng, 30/01/2023,30
+6, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 30/01/2023,30
+6, Quận Đống Đa,Phường Ô Chợ Dừa, 30/01/2023,25
+8, Quận Đống Đa,Phường Ô Chợ Dừa, 30/01/2023,40
+4, Quận Đống Đa,Phường Láng Thượng, 30/01/2023,22
+6, Quận Cầu Giấy,Phường Yên Hòa, 29/01/2023,25
+2, Quận Đống Đa,Phường Nam Đồng, 07/02/2023,26
+3, Quận Thanh Xuân,Phường Khương Mai, 07/02/2023,20
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 07/02/2023,30
+5, Quận Đống Đa,Phường Thịnh Quang, 07/02/2023,45
+3, Quận Đống Đa,Phường Ô Chợ Dừa, 07/02/2023,30
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Quan Hoa, 12/02/2023,30
+5, Quận Đống Đa,Phường Kim Liên, 11/02/2023,40
+3, Quận Đống Đa,Phường Ô Chợ Dừa, 07/02/2023,30
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Quan Hoa, 12/02/2023,30
+5, Quận Đống Đa,Phường Kim Liên, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 11/02/2023,30
+5, Quận Thanh Xuân,Phường Nhân Chính, 11/02/2023,25
+7, Quận Thanh Xuân,Phường Phương Liệt, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 11/02/2023,38
+2, Quận Đống Đa,Phường Khương Thượng, 10/02/2023,27
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 10/02/2023,22
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 10/02/2023,25
+4, Quận Thanh Xuân,Phường Kim Giang, 09/02/2023,25
+2, Quận Đống Đa,Phường Ngã Tư Sở, 08/02/2023,20
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,45
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 08/02/2023,25
+4, Quận Cầu Giấy,Phường Quan Hoa, 12/02/2023,30
+5, Quận Đống Đa,Phường Kim Liên, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 11/02/2023,30
+5, Quận Thanh Xuân,Phường Nhân Chính, 11/02/2023,25
+7, Quận Thanh Xuân,Phường Phương Liệt, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 11/02/2023,38
+2, Quận Đống Đa,Phường Khương Thượng, 10/02/2023,27
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 10/02/2023,22
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 10/02/2023,25
+4, Quận Thanh Xuân,Phường Kim Giang, 09/02/2023,25
+2, Quận Đống Đa,Phường Ngã Tư Sở, 08/02/2023,20
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,45
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 08/02/2023,25
+2, Quận Đống Đa,Phường Nam Đồng, 07/02/2023,26
+3, Quận Thanh Xuân,Phường Khương Mai, 07/02/2023,20
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 07/02/2023,30
+5, Quận Đống Đa,Phường Thịnh Quang, 07/02/2023,45
+3, Quận Đống Đa,Phường Ô Chợ Dừa, 07/02/2023,30
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Dịch Vọng, 06/02/2023,32
+2, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 06/02/2023,15
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 06/02/2023,20
+5, Quận Thanh Xuân,Phường Nhân Chính, 06/02/2023,24
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,40
+5, Quận Thanh Xuân,Phường Khương Đình, 06/02/2023,25
+4, Quận Đống Đa,Phường Phương Liên, 05/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+3, Quận Thanh Xuân,Phường Nhân Chính, 05/02/2023,30
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 05/02/2023,25
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+2, Quận Đống Đa,Phường Nam Đồng, 05/02/2023,26
+5, Quận Thanh Xuân,Phường Nhân Chính, 05/02/2023,30
+4, Quận Hà Đông,"Cho thuê Nhà trọ, phòng trọ Đường Văn Quán", 05/02/2023,30
+7, Quận Đống Đa,Phường Láng Thượng, 05/02/2023,33
+5, Quận Đống Đa,Phường Kim Liên, 05/02/2023,32
+6, Quận Thanh Xuân,Phường Hạ Đình, 07/02/2023,45
+8, Quận Đống Đa,Phường Cát Linh, 07/02/2023,35
+5, Quận Đống Đa,Phường Láng Thượng, 07/02/2023,30
+4, Quận Thanh Xuân,Phường Khương Đình, 07/02/2023,30
+2, Quận Đống Đa,Phường Nam Đồng, 07/02/2023,26
+3, Quận Thanh Xuân,Phường Khương Mai, 07/02/2023,20
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 07/02/2023,30
+5, Quận Đống Đa,Phường Thịnh Quang, 07/02/2023,45
+3, Quận Đống Đa,Phường Ô Chợ Dừa, 07/02/2023,30
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Dịch Vọng, 06/02/2023,32
+2, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 06/02/2023,15
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 06/02/2023,20
+5, Quận Thanh Xuân,Phường Nhân Chính, 06/02/2023,24
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,40
+5, Quận Thanh Xuân,Phường Khương Đình, 06/02/2023,25
+4, Quận Đống Đa,Phường Phương Liên, 05/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+3, Quận Thanh Xuân,Phường Nhân Chính, 05/02/2023,30
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 05/02/2023,25
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+2, Quận Đống Đa,Phường Nam Đồng, 05/02/2023,26
+5, Quận Thanh Xuân,Phường Nhân Chính, 05/02/2023,30
+4, Quận Hà Đông,"Cho thuê Nhà trọ, phòng trọ Đường Văn Quán", 05/02/2023,30
+7, Quận Đống Đa,Phường Láng Thượng, 05/02/2023,33
+5, Quận Đống Đa,Phường Kim Liên, 05/02/2023,32
+3, Quận Cầu Giấy,Phường Trung Hòa, 04/02/2023,20
+6, Quận Đống Đa,Phường Ô Chợ Dừa, 04/02/2023,38
+5, Quận Đống Đa,"Cho thuê Nhà trọ, phòng trọ Đường Hàng Bột", 04/02/2023,40
+4, Quận Cầu Giấy,Phường Quan Hoa, 03/02/2023,20
+4, Quận Thanh Xuân,Phường Thanh Xuân Nam, 03/02/2023,60
+"2,3", Quận Đống Đa,Phường Nam Đồng, 03/02/2023,26
+8, Quận Đống Đa,Phường Ngã Tư Sở, 01/02/2023,45
+4, Quận Đống Đa,Phường Ô Chợ Dừa, 01/02/2023,25
+5, Quận Thanh Xuân,Phường Phương Liệt, 01/02/2023,30
+5, Quận Thanh Xuân,Phường Khương Trung, 31/01/2023,35
+Thỏa thuận, Quận Thanh Xuân,Phường Thanh Xuân Trung, 31/01/2023,40
+"2,5", Quận Thanh Xuân,Phường Khương Trung, 31/01/2023,28
+4, Quận Đống Đa,Phường Láng Thượng, 30/01/2023,30
+7, Quận Cầu Giấy,Phường Dịch Vọng, 30/01/2023,30
+6, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 30/01/2023,30
+6, Quận Đống Đa,Phường Ô Chợ Dừa, 30/01/2023,25
+8, Quận Đống Đa,Phường Ô Chợ Dừa, 30/01/2023,40
+4, Quận Đống Đa,Phường Láng Thượng, 30/01/2023,22
+6, Quận Cầu Giấy,Phường Yên Hòa, 29/01/2023,25
+2, Quận Đống Đa,Phường Nam Đồng, 07/02/2023,26
+3, Quận Thanh Xuân,Phường Khương Mai, 07/02/2023,20
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 07/02/2023,30
+5, Quận Đống Đa,Phường Thịnh Quang, 07/02/2023,45
+3, Quận Đống Đa,Phường Ô Chợ Dừa, 07/02/2023,30
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Dịch Vọng, 06/02/2023,32
+2, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 06/02/2023,15
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 06/02/2023,20
+5, Quận Thanh Xuân,Phường Nhân Chính, 06/02/2023,24
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,40
+5, Quận Thanh Xuân,Phường Khương Đình, 06/02/2023,25
+4, Quận Đống Đa,Phường Phương Liên, 05/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+3, Quận Thanh Xuân,Phường Nhân Chính, 05/02/2023,30
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 05/02/2023,25
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 10/02/2023,25
+4, Quận Thanh Xuân,Phường Kim Giang, 09/02/2023,25
+2, Quận Đống Đa,Phường Ngã Tư Sở, 08/02/2023,20
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,45
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 08/02/2023,25
+3, Quận Đống Đa,Phường Ô Chợ Dừa, 07/02/2023,30
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Quan Hoa, 12/02/2023,30
+5, Quận Đống Đa,Phường Kim Liên, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 11/02/2023,30
+5, Quận Thanh Xuân,Phường Nhân Chính, 11/02/2023,25
+7, Quận Thanh Xuân,Phường Phương Liệt, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 11/02/2023,38
+2, Quận Đống Đa,Phường Khương Thượng, 10/02/2023,27
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 10/02/2023,22
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 10/02/2023,25
+4, Quận Thanh Xuân,Phường Kim Giang, 09/02/2023,25
+2, Quận Đống Đa,Phường Ngã Tư Sở, 08/02/2023,20
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,45
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 08/02/2023,25
+4, Quận Cầu Giấy,Phường Quan Hoa, 12/02/2023,30
+5, Quận Đống Đa,Phường Kim Liên, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 11/02/2023,30
+5, Quận Thanh Xuân,Phường Nhân Chính, 11/02/2023,25
+7, Quận Thanh Xuân,Phường Phương Liệt, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 11/02/2023,38
+2, Quận Đống Đa,Phường Khương Thượng, 10/02/2023,27
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Dịch Vọng, 06/02/2023,32
+2, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 06/02/2023,15
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 06/02/2023,20
+5, Quận Thanh Xuân,Phường Nhân Chính, 06/02/2023,24
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,40
+5, Quận Thanh Xuân,Phường Khương Đình, 06/02/2023,25
+4, Quận Đống Đa,Phường Phương Liên, 05/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+3, Quận Thanh Xuân,Phường Nhân Chính, 05/02/2023,30
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 05/02/2023,25
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 10/02/2023,25
+4, Quận Thanh Xuân,Phường Kim Giang, 09/02/2023,25
+2, Quận Đống Đa,Phường Ngã Tư Sở, 08/02/2023,20
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,45
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 08/02/2023,25
+4, Quận Đống Đa,Phường Láng Thượng, 30/01/2023,30
+7, Quận Cầu Giấy,Phường Dịch Vọng, 30/01/2023,30
+6, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 30/01/2023,30
+6, Quận Đống Đa,Phường Ô Chợ Dừa, 30/01/2023,25
+8, Quận Đống Đa,Phường Ô Chợ Dừa, 30/01/2023,40
+4, Quận Đống Đa,Phường Láng Thượng, 30/01/2023,22
+6, Quận Cầu Giấy,Phường Yên Hòa, 29/01/2023,25
+2, Quận Đống Đa,Phường Nam Đồng, 07/02/2023,26
+3, Quận Thanh Xuân,Phường Khương Mai, 07/02/2023,20
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 07/02/2023,30
+5, Quận Đống Đa,Phường Thịnh Quang, 07/02/2023,45
+3, Quận Đống Đa,Phường Ô Chợ Dừa, 07/02/2023,30
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Dịch Vọng, 06/02/2023,32
+2, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 06/02/2023,15
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 06/02/2023,20
+5, Quận Thanh Xuân,Phường Nhân Chính, 06/02/2023,24
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,40
+5, Quận Thanh Xuân,Phường Khương Đình, 06/02/2023,25
+4, Quận Đống Đa,Phường Phương Liên, 05/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+3, Quận Thanh Xuân,Phường Nhân Chính, 05/02/2023,30
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 05/02/2023,25
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 10/02/2023,25
+4, Quận Thanh Xuân,Phường Kim Giang, 09/02/2023,25
+2, Quận Đống Đa,Phường Ngã Tư Sở, 08/02/2023,20
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,45
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 08/02/2023,25
+3, Quận Đống Đa,Phường Ô Chợ Dừa, 07/02/2023,30
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Quan Hoa, 12/02/2023,30
+5, Quận Đống Đa,Phường Kim Liên, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 11/02/2023,30
+5, Quận Thanh Xuân,Phường Nhân Chính, 11/02/2023,25
+7, Quận Thanh Xuân,Phường Phương Liệt, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 11/02/2023,38
+2, Quận Đống Đa,Phường Khương Thượng, 10/02/2023,27
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 10/02/2023,22
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 10/02/2023,25
+4, Quận Thanh Xuân,Phường Kim Giang, 09/02/2023,25
+2, Quận Đống Đa,Phường Ngã Tư Sở, 08/02/2023,20
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,45
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 08/02/2023,25
+4, Quận Cầu Giấy,Phường Quan Hoa, 12/02/2023,30
+5, Quận Đống Đa,Phường Kim Liên, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 11/02/2023,30
+5, Quận Thanh Xuân,Phường Nhân Chính, 11/02/2023,25
+7, Quận Thanh Xuân,Phường Phương Liệt, 11/02/2023,40
+5, Quận Nam Từ Liêm,Phường Mỹ Đình 2, 11/02/2023,38
+2, Quận Đống Đa,Phường Khương Thượng, 10/02/2023,27
+4, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,25
+8, Quận Đống Đa,Phường Thịnh Quang, 06/02/2023,60
+4, Quận Cầu Giấy,Phường Dịch Vọng, 06/02/2023,32
+2, Quận Nam Từ Liêm,Phường Mỹ Đình 1, 06/02/2023,15
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 06/02/2023,20
+5, Quận Thanh Xuân,Phường Nhân Chính, 06/02/2023,24
+6, Quận Cầu Giấy,Phường Trung Hòa, 06/02/2023,40
+5, Quận Thanh Xuân,Phường Khương Đình, 06/02/2023,25
+4, Quận Đống Đa,Phường Phương Liên, 05/02/2023,30
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+3, Quận Thanh Xuân,Phường Nhân Chính, 05/02/2023,30
+3, Quận Thanh Xuân,Phường Thanh Xuân Nam, 05/02/2023,25
+4, Quận Cầu Giấy,Phường Quan Hoa, 05/02/2023,20
+4, Quận Thanh Xuân,Phường Thanh Xuân Trung, 10/02/2023,25
+4, Quận Thanh Xuân,Phường Kim Giang, 09/02/2023,25
+2, Quận Đống Đa,Phường Ngã Tư Sở, 08/02/2023,20
+3, Quận Đống Đa,Phường Nam Đồng, 08/02/2023,45
+4, Quận Cầu Giấy,Phường Dịch Vọng Hậu, 08/02/2023,25
